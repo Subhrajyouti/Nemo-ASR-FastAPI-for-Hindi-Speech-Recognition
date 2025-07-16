@@ -31,7 +31,7 @@ You can run the project directly on your machine without using Docker.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kunalx731/nemo-asr-fastapi.git
+git clone https://github.com/Subhrajyouti/Nemo-ASR-FastAPI-for-Hindi-Speech-Recognition.git
 cd nemo-asr-fastapi
 
 ```
